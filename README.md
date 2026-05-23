@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Madavoir 👋</h1>
 
-<!--
-**madavoir/madavoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Backend Engineer • Golang Developer • ML Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Backend Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chi-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fiber-00AC47?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mutex-Concurrency-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Testing-232F3E?style=for-the-badge"/>
+</p>
+
+## ML / DL Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+---
+
+## About Me
+
+- Building backend systems with Go
+- Interested in distributed systems & ML
+- Writing clean and scalable APIs
+- Exploring Deep Learning
+
+
+
+<p align="center">
+	<a href="https://octo-ring.com/p/madavoir/prev">&larr;</a>
+	<a class="cactus-link" href="https://octo-ring.com">Octo Ring</a>
+	<a href="https://octo-ring.com/p/madavoir/random">🎲</a>
+	<a href="https://octo-ring.com/p/madavoir/next">&rarr;</a>
+</p>
