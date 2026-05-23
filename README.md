@@ -33,11 +33,31 @@ Backend Engineer • Golang Developer • ML Enthusiast
 
 ## About Me
 
-- Building backend systems with Go
-- Interested in distributed systems & ML
-- Writing clean and scalable APIs
-- Exploring Deep Learning
+<table>
+<tr>
+<td>
 
+<pre lang="go"><code>
+type Engineer struct {
+    Backend []string
+    ML      []string
+	Hobbies []string
+}
+
+me := Engineer{
+    Backend: []string{"Go", "Fiber", "Chi", "PostgreSQL", "Redis"},
+    ML:      []string{"TensorFlow", "Pandas", "NumPy"},
+	Hobbies: []string{"Tennis", "Gaming", "Literature", "Gacha games content creator"},
+}
+</code></pre>
+
+</td>
+
+<td>
+<img src="malloc.png" width="260"/>
+</td>
+</tr>
+</table>
 
 
 <p align="center">
