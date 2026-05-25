@@ -52,10 +52,6 @@ me := Engineer{
 </code></pre>
 
 </td>
-
-<td>
-<img src="malloc.png" width="260"/>
-</td>
 </tr>
 </table>
 
