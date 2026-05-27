@@ -57,8 +57,8 @@ me := Engineer{
 
 
 <p align="center">
-	<a href="https://octo-ring.com/p/madavoir/prev">&larr;</a>
+	<a href="https://octo-ring.com/p/aemethz/prev">&larr;</a>
 	<a class="cactus-link" href="https://octo-ring.com">Octo Ring</a>
-	<a href="https://octo-ring.com/p/madavoir/random">🎲</a>
-	<a href="https://octo-ring.com/p/madavoir/next">&rarr;</a>
+	<a href="https://octo-ring.com/p/aemethz/random">🎲</a>
+	<a href="https://octo-ring.com/p/aemethz/next">&rarr;</a>
 </p>
