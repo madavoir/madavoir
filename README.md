@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aemethz 👋</h1>
+<h1 align="center">Hi, I'm sONSELY 👋</h1>
 
 <p align="center">
 Backend Engineer • Golang Developer • ML Enthusiast
@@ -57,8 +57,8 @@ me := Engineer{
 
 
 <p align="center">
-	<a href="https://octo-ring.com/p/aemethz/prev">&larr;</a>
+	<a href="https://octo-ring.com/p/sonsely/prev">&larr;</a>
 	<a class="cactus-link" href="https://octo-ring.com">Octo Ring</a>
-	<a href="https://octo-ring.com/p/aemethz/random">🎲</a>
-	<a href="https://octo-ring.com/p/aemethz/next">&rarr;</a>
+	<a href="https://octo-ring.com/p/sonsely/random">🎲</a>
+	<a href="https://octo-ring.com/p/sonsely/next">&rarr;</a>
 </p>
