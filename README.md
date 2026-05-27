@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aemeethz 👋</h1>
+<h1 align="center">Hi, I'm Aemethz 👋</h1>
 
 <p align="center">
 Backend Engineer • Golang Developer • ML Enthusiast
