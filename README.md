@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Foogue 👋</h1>
+<h1 align="center">Hi, I'm Madavoir 👋</h1>
 
 <p align="center">
 Backend Engineer • Golang Developer • ML Enthusiast
@@ -57,8 +57,8 @@ me := Engineer{
 
 
 <p align="center">
-	<a href="https://octo-ring.com/p/foolguides/prev">&larr;</a>
+	<a href="https://octo-ring.com/p/madavoir/prev">&larr;</a>
 	<a class="cactus-link" href="https://octo-ring.com">Octo Ring</a>
-	<a href="https://octo-ring.com/p/foolguides/random">🎲</a>
-	<a href="https://octo-ring.com/p/foolguides/next">&rarr;</a>
+	<a href="https://octo-ring.com/p/madavoir/random">🎲</a>
+	<a href="https://octo-ring.com/p/madavoir/next">&rarr;</a>
 </p>
